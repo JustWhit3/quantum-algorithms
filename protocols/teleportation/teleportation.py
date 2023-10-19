@@ -70,14 +70,10 @@ def test_circuit(circuit, Q, A, B, a, b):
 
 
 if __name__ == "__main__":
-    
-    # Create the circuit
     Q = QuantumRegister(1, "Q")
     A = QuantumRegister(1, "A")
     B = QuantumRegister(1, "B")
     a = ClassicalRegister(1, "a")
     b = ClassicalRegister(1, "b")
     circuit = make_circuit(Q, A, B, a, b)
-    
-    # Test the circuit
     test_circuit(circuit, Q, A, B, a, b)
