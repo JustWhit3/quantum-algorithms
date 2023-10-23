@@ -8,7 +8,8 @@
 ## Algorithms
 
 List of implemented algorithms of the repository:
-- Empty.
+
+- [Deutsch algorithm](https://github.com/JustWhit3/quantum-algorithms/tree/main/algorithms/deutsch) ([explanation](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms#deutschs-algorithm)): basic implementation of the parity problem solution for *n = 1*.
 
 ## Protocols
 
