@@ -10,6 +10,7 @@
 List of implemented algorithms of the repository:
 
 - [Deutsch algorithm](https://github.com/JustWhit3/quantum-algorithms/tree/main/algorithms/deutsch) ([explanation](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms#deutschs-algorithm)): basic implementation of the parity problem solution for *n = 1*.
+- [Deutsch-Jozsa algorithm](https://github.com/JustWhit3/quantum-algorithms/tree/main/algorithms/deutsch_jozsa) ([explanation](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms#the-deutsch-jozsa-algorithm)): basic implementation of the parity problem solution for a generic *n*.
 
 ## Protocols
 
