@@ -1,4 +1,4 @@
-![Logo](https://github.com/JustWhit3/quantum-algorithms/blob/main/img/logo.png)
+<p align="center"><img src="https://github.com/JustWhit3/quantum-algorithms/blob/main/img/logo.png" height=220></p>
 
 ***
 ## Table of contents
