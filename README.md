@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/JustWhit3/quantum-algorithms/blob/main/img/logo.png" height=420></p>
+<p align="center"><img src="https://github.com/JustWhit3/quantum-algorithms/blob/main/img/logo.png"></p>
 
 ***
 ## Table of contents
