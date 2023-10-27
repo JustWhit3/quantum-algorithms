@@ -1,5 +1,6 @@
-# quantum-algorithms
+![Logo](https://github.com/JustWhit3/quantum-algorithms/blob/main/img/repository/logo.png)
 
+***
 ## Table of contents
 
 - [Algoritms](#algorithms)
